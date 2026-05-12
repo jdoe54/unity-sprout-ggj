@@ -1,8 +1,20 @@
-# unity-sprout-ggj
+# Sprout – Unity C# Game Jam Prototype
 
-This game was created in February 3 - 5, 2023 during the Global Game Jam Tucson Site. It is called Sprout. The objective was to get your plant to reach the water pool at the end of a level while avoiding salt and collecting water droplets in the soil.
-My club, UA Game Dev Club, was the cohost for the event with the Tucson Game Developers club, as my username was Ravenorr. The game was
-not formally submitted as I was trying to fix bugs related to the game. Here is the link to the event: https://v3.globalgamejam.org/2023/jam-sites/ggj-tucson-2023
+Sprout is a Unity/C# puzzle prototype developed during Global Game Jam 2023 at the University of Arizona Game Dev Club Tucson site. The player guides a plant through tile-based levels, avoiding salt hazards and collecting water droplets to reach the water pool at the end of each stage.
 
-I am now adding changes and bug fixes. Here are some gifs from one of the levels in the game.
+## Features
+- Player movement and grid-based level interaction
+- Hazard avoidance and collectible water droplets
+- Reset and scoring UI
+- Multiple playable level layouts
+- Post-jam bug fixes and gameplay polish
+
+## Technologies
+- Unity
+- C#
+- Git/GitHub
+
+## Role
+Developed gameplay mechanics, level behavior, UI fixes, and post-jam bug fixes.
+
 ![](https://i.gyazo.com/ee4043e7e701c958fa6f735401d29b7d.gif)
